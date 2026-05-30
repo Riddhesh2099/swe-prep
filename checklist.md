@@ -2,7 +2,7 @@
 
 ## DSA / Coding
 - [x] Arrays, Strings, Sliding Window, Two Pointers
-- [ ] Linked Lists (reverse, cycle detection, merge)
+- [x] Linked Lists (reverse, cycle detection, merge)
 - [ ] Stacks and Queues
 - [ ] Trees (BFS, DFS, LCA, diameter, serialization)
 - [ ] Graphs (BFS, DFS, Dijkstra, Union-Find, Topological Sort)
